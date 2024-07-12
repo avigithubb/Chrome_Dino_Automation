@@ -1,5 +1,4 @@
 <h1>Chrome's Dino Automation</h1>
-<br>
 <hr>
 <p>A very simple effort to automate Google'g dino game using Selenium with Python.</p>
 
@@ -22,4 +21,6 @@
 <h1>Screen:</h1>
 
 
-![Uploading Simple Black and White Text Instagram Post.gif…]()
+<video width="320" height="240" controls>
+  <source src="![Uploading Simple Black and White Text Instagram Post.gif…]()" type="video/gif">
+</video>
